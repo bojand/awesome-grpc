@@ -106,6 +106,7 @@
 - [Kreya](https://kreya.app) - A gRPC client supporting environments, templating, authentication schemes and file based syncing.
 - [Plumber](https://github.com/pashkatrick/Plumber) - Another one GUI for GRPC requests (reflection only)
 - [Fint](http://bytesmotion.com/fint) - Create, run, manage performance tests and functional tests cases for gRPC service in a single (commercial) tool
+- [sConnector](https://www.sconnector.dev) - A clean and simple grpc desktop client. Efficient Visual Testing Platform for gRPC interfaces supporting SSL/TLS, bi-directional streaming and file streaming.
 
 <a name="tools-test"></a>
 ### Testing
@@ -135,6 +136,7 @@
 - [grpc-mate](https://github.com/gdong42/grpc-mate) - A dynamic proxy server that translates JSON HTTP requests into gRPC calls
 - [jawlb](https://github.com/joa/jawlb) - An unsophisticated grpclb load balancer implementation for Kubernetes and gRPC
 - [protoc-gen-hbs](https://github.com/gponsinet/protoc-gen-hbs) - Fast and easy protobuf generation with handlebars and some helpers
+- [hosted-gRPC-mock-interface](https://grpc.techunits.com) - Fast, Simple, Free Hosted gRPC testing mock interface for developers
 
 <a name="lang"></a>
 ## Language-Specific
